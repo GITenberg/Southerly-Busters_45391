@@ -1,0 +1,40 @@
+_repo: Southerly-Busters_45391
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Clint, Alfred
+    birthdate: 1807
+    deathdate: 1883
+    gutenberg_agent_id: '43255'
+    url: http://www.gutenberg.org/2009/agents/43255
+  - agent_name: Scott, Montagu
+    gutenberg_agent_id: '43256'
+    url: http://www.gutenberg.org/2009/agents/43256
+covers:
+- cover_type: archival
+  image_path: 45391-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibson, George Herbert
+    aliases:
+    - Gibson, G. H.
+    - Ironbark
+    birthdate: 1846
+    deathdate: 1921
+    gutenberg_agent_id: '43254'
+    url: http://www.gutenberg.org/2009/agents/43254
+description: ''
+gutenberg_issued: '2014-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Humorous poetry'
+title: Southerly Busters
+url: http://www.gutenberg.org/ebooks/45391
